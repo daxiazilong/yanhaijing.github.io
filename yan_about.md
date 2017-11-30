@@ -68,4 +68,4 @@ group: navigation
 - [@Phodal](https://www.phodal.com/)
 - [@wujunze](https://wujunze.com/)
 - [@arron](https://omeme.me/)
-
+- [@子龙的博客](http://zilong.php.cn/)
